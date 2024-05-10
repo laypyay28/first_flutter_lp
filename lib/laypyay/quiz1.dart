@@ -6,10 +6,10 @@ void main(){
   print("second string");
   String str2=(stdin.readLineSync()!);
   if(Anagrams(str1,str2)){
-    print("the string are anagrams");
+    print("The string are anagrams");
   }
   else{
-    print("the string are not anagrams");}
+    print("The string are not anagrams");}
   }
 
 
